@@ -14,7 +14,7 @@ Aplicación creada con 2 propositos:
 
 Se utiliza el protocolo con el siguiente **diagrama de secuencia**:
 
-![Imagen](https://github.com/JSenen/esp-idf-provisioning-android/GATT/doc/Sequence_BLE_OTA.png)
+![Imagen](https://github.com/JSenen/esp-idf-provisioning-android/blob/master/doc/Sequence_BLE_OTA.png)
 
 ## WiFi
 # Provisioning Library  
