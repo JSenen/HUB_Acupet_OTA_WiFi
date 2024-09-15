@@ -17,6 +17,8 @@ Se utiliza el protocolo con el siguiente **diagrama de secuencia**:
 ![Imagen](https://github.com/JSenen/esp-idf-provisioning-android/blob/master/doc/Sequence_BLE_OTA.png)
 
 ## WiFi
+![Imagen](https://github.com/JSenen/esp-idf-provisioning-android/blob/master/doc/Acupet_WiFi_Provisoned.png)
+
 # Provisioning Library  
 
 Provisioning library provides a mechanism to send network credentials and/or custom data to ESP32 (or its variants like S2, S3, C3, etc.) or ESP8266 devices.
