@@ -20,6 +20,11 @@ Se utiliza el protocolo con el siguiente **diagrama de secuencia**:
 
 ![Imagen](https://github.com/JSenen/esp-idf-provisioning-android/blob/master/doc/Acupet_OTA_screens.png)
 
+## WiFi (SoftAp) 
+Se utiliza el protocolo de la libreria oficial esp-idf-prvisoning. Adpatada según el diagrama siguiente
+
+![Imagen](https://github.com/JSenen/esp-idf-provisioning-android/blob/master/doc/Acupet_WiFi_ULM.png)
+
 ## WiFi (SoftAP) - SCREENSHOTS SEQUENCE
 
 ![Imagen](https://github.com/JSenen/esp-idf-provisioning-android/blob/master/doc/Acupet_WiFi_Provisoned.png)
