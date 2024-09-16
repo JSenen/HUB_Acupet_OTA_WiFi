@@ -10,17 +10,18 @@ Aplicación creada con 2 propositos:
 2.- Suministrar al dispositivo las claves de acceso a la wifi, utiizando el modo AP del mismo.
 
 ---
-## OTA
+## OTA (BLE)
 
 Se utiliza el protocolo con el siguiente **diagrama de secuencia**:
 
 ![Imagen](https://github.com/JSenen/esp-idf-provisioning-android/blob/master/doc/Sequence_BLE_OTA.png)
 
-## OTA - SCREENSHOTS SEQUENCE
+## OTA (BLE) - SCREENSHOTS SEQUENCE
 
 ![Imagen](https://github.com/JSenen/esp-idf-provisioning-android/blob/master/doc/Acupet_OTA_screens.png)
 
-## WiFi
+## WiFi (SoftAP) - SCREENSHOTS SEQUENCE
+
 ![Imagen](https://github.com/JSenen/esp-idf-provisioning-android/blob/master/doc/Acupet_WiFi_Provisoned.png)
 
 # Provisioning Library  

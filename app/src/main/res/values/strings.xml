@@ -164,5 +164,7 @@
     <string name="summary_unsecured">Unsecured</string>
     <string name="summary_username">(Applicable for security version 2)</string>
     <string name="easy_firmware_updater">Easy firmware updater and wifi provisioning</string>
+    <string name="update">Update</string>
+    <string name="wifi">WiFi</string>
 
 </resources>
