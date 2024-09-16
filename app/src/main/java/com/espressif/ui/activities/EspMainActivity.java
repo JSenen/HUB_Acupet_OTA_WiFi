@@ -345,7 +345,7 @@ public class EspMainActivity extends AppCompatActivity {
 
         Intent intent = new Intent(EspMainActivity.this, ProvisionLanding.class);
         intent.putExtra(AppConstants.KEY_SECURITY_TYPE, securityType);
-        intent.putExtra(AppConstants.KEY_DEVICE_NAME,"acupetap");
+        intent.putExtra(AppConstants.KEY_DEVICE_NAME,"Acupet_AP");
         startActivity(intent);
     }
 }
